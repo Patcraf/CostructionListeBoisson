@@ -1,0 +1,3 @@
+Coca;5;true
+Fanta;3;false
+Eau;2;true
